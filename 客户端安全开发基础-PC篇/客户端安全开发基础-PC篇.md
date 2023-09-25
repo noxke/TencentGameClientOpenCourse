@@ -8,7 +8,7 @@
 
 ---
 
-> writen by noxke
+> written by noxke
 
 ---
 
