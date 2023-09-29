@@ -74,7 +74,7 @@ CreateRemoteThread(hProcess, NULL, 0, pThreadProc, pRemoteBuf, 0, NULL);
 
 ![](./images/pic12.png)
 
-不过中间有20秒的sleep,在启动后就注入即可
+不过中间有10秒的sleep,在启动后就注入即可
 
 ![](./images/pic13.png)
 
