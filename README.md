@@ -6,6 +6,6 @@
 
 > 逆向分析，使用CreateThread API进行DLL注入，程序HOOK
 
-
+> Android Java层/Native层调试环境搭建
 
 > Android Native调试，使用ptrace hook Native层函数
