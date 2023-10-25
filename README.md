@@ -11,3 +11,5 @@
 > Android Native调试，使用ptrace hook Native层函数
 
 > ARM UPX脱壳
+
+> VMP反调试分析
