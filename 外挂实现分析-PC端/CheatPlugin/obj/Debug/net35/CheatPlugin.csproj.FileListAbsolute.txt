@@ -1,0 +1,13 @@
+C:\workspace\腾讯菁英班\外挂实现分析-PC端\CheatPlugin\bin\Debug\net35\CheatPlugin.dll
+C:\workspace\腾讯菁英班\外挂实现分析-PC端\CheatPlugin\bin\Debug\net35\CheatPlugin.pdb
+C:\workspace\腾讯菁英班\外挂实现分析-PC端\CheatPlugin\bin\Debug\net35\Assembly-CSharp.dll
+C:\workspace\腾讯菁英班\外挂实现分析-PC端\CheatPlugin\bin\Debug\net35\BepInEx.Harmony.dll
+C:\workspace\腾讯菁英班\外挂实现分析-PC端\CheatPlugin\obj\Debug\net35\CheatPlugin.csproj.AssemblyReference.cache
+C:\workspace\腾讯菁英班\外挂实现分析-PC端\CheatPlugin\obj\Debug\net35\PluginInfo.cs
+C:\workspace\腾讯菁英班\外挂实现分析-PC端\CheatPlugin\obj\Debug\net35\CheatPlugin.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\腾讯菁英班\外挂实现分析-PC端\CheatPlugin\obj\Debug\net35\CheatPlugin.AssemblyInfoInputs.cache
+C:\workspace\腾讯菁英班\外挂实现分析-PC端\CheatPlugin\obj\Debug\net35\CheatPlugin.AssemblyInfo.cs
+C:\workspace\腾讯菁英班\外挂实现分析-PC端\CheatPlugin\obj\Debug\net35\CheatPlugin.csproj.CoreCompileInputs.cache
+C:\workspace\腾讯菁英班\外挂实现分析-PC端\CheatPlugin\obj\Debug\net35\CheatPlugin.csproj.CopyComplete
+C:\workspace\腾讯菁英班\外挂实现分析-PC端\CheatPlugin\obj\Debug\net35\CheatPlugin.dll
+C:\workspace\腾讯菁英班\外挂实现分析-PC端\CheatPlugin\obj\Debug\net35\CheatPlugin.pdb
